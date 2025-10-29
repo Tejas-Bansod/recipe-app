@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle with gradient -->
+  <circle cx="32" cy="32" r="30" fill="#FF6B6B" opacity="0.1" stroke="#FF6B6B" stroke-width="1.5"/>
+  
+  <!-- Magnifying glass handle -->
+  <path d="M38 38L48 48" stroke="#FF6B6B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Magnifying glass circle -->
+  <circle cx="26" cy="26" r="12" stroke="#FF6B6B" stroke-width="4"/>
+  
+  <!-- Recipe elements inside magnifying glass -->
+  <path d="M22 22L18 26" stroke="#4D96FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 26L18 26" stroke="#6BCB77" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 30L18 30" stroke="#FFD93D" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Small food icons around -->
+  <circle cx="42" cy="22" r="2" fill="#6BCB77"/>
+  <circle cx="50" cy="22" r="2" fill="#4D96FF"/>
+  <circle cx="46" cy="18" r="2" fill="#FFD93D"/>
+  
+  <!-- Recipe book -->
+  <path d="M16 40V18C16 16.8954 16.8954 16 18 16H22C23.1046 16 24 16.8954 24 18V40C24 41.1046 23.1046 42 22 42H18C16.8954 42 16 41.1046 16 40Z" fill="#FFD93D" stroke="#E6B422" stroke-width="1.5"/>
+  <path d="M22 20H19" stroke="#E6B422" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M22 25H19" stroke="#E6B422" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <!-- Chef's hat -->
+  <path d="M40 16C40 14.8954 40.8954 14 42 14H44C45.1046 14 46 14.8954 46 16V18C46 19.1046 45.1046 20 44 20H42C40.8954 20 40 19.1046 40 18V16Z" fill="#4D96FF" stroke="#3A7BD5" stroke-width="1.5"/>
+  <path d="M38 20H48V22C48 23.1046 47.1046 24 46 24H40C38.8954 24 38 23.1046 38 22V20Z" fill="#4D96FF" stroke="#3A7BD5" stroke-width="1.5"/>
+</svg>
