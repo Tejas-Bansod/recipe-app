@@ -76,11 +76,11 @@ export default function Footer() {
           <div className="flex items-center gap-1">
             <span>Made with</span>
             <Heart className="w-4 h-4 text-red-500 fill-current" />
-            <span>by Tejas Bansod</span>
+            <span>by Tejas Bansod and Team</span>
           </div>
           
           <div className="text-xs text-base-content/50">
-            Powered by TheMealDB API
+            Powered by codenexor and TheMealDB API
           </div>
         </div>
       </div>

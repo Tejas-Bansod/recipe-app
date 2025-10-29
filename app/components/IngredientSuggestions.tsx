@@ -9,7 +9,7 @@ interface IngredientSuggestionsProps {
 }
 
 const popularIngredients = [
-  'Chicken', 'Pasta', 'Rice', 'Beef', 'Fish',
+  'Chicken', 'Pasta', 'Rice', 'salt', 'Fish',
   'Tomato', 'Cheese', 'Mushroom', 'Potato', 'Onion',
   'Garlic', 'Broccoli', 'Spinach', 'Carrot', 'Chocolate'
 ]
