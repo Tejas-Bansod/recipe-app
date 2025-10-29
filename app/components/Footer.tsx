@@ -35,7 +35,7 @@ export default function Footer() {
           {/* Social Links */}
           <div className="flex items-center gap-2">
             <Link 
-              href="https://github.com/yourusername" 
+              href="https://github.com/Tejas-Bansod" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-base-200 hover:bg-base-300 transition-colors"
@@ -45,7 +45,7 @@ export default function Footer() {
               <Github className="w-5 h-5" />
             </Link>
             <Link 
-              href="https://www.instagram.com/yourusername" 
+              href="https://www.instagram.com/itstejasbansod" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-base-200 hover:bg-base-300 transition-colors"
@@ -55,7 +55,7 @@ export default function Footer() {
               <Instagram className="w-5 h-5" />
             </Link>
             <Link 
-              href="https://www.linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/tejas-bansod-profile/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-base-200 hover:bg-base-300 transition-colors"
